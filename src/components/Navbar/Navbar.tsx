@@ -3,28 +3,21 @@ import "./Navbar.scss"
 export const Navbar = () => {
   return (
     <header className="header">
-      <div className="logo">
-        <h1>Florist</h1>
-      </div>
-      <nav className="nav">
-        <ul>
-          <li>
-            <a href="#home">Home</a>
-          </li>
-          <li>
-            <a href="#shop">Shop</a>
-          </li>
-          <li>
-            <a href="#gallery">Gallery</a>
-          </li>
-          <li>
-            <a href="#blog">Blog</a>
-          </li>
-          <li>
-            <a href="#contact">Contact</a>
-          </li>
-        </ul>
-      </nav>
-    </header>
+    <nav>
+      <ul>
+        <li>LOV ER THUMA USAD</li>
+        <li>ME CLL OV</li>
+        <li>LITLBES</li>
+        <li>CLOIMBAT</li>
+        <li>CHAHILSER</li>
+        <li>MELIEU</li>
+        <li>THUT PARC</li>
+        <li>DRESSITY</li>
+        <li>MANDNDY</li>
+        <li>STRINE</li>
+        <li>CULLINC</li>
+      </ul>
+    </nav>
+  </header>
   )
 }
